@@ -3,7 +3,8 @@ import MovieList from "./MovieList.jsx";
 const Main = () => {
   return (
     <main className="main">
-      <MovieList />
+        <h1>Cartelera</h1>
+        <MovieList />
     </main>
   );
 };

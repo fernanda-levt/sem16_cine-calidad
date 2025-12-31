@@ -71,4 +71,28 @@ export const movies = [
 			'El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales.',
 		id: 9,
 	},
+	{
+		imagen: 'https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002638?referenceScheme=HeadOffice&allowPlaceHolder=true',
+		titulo: 'Avatar Fuego y cenizas',
+		genero: 'Acción, Ciencia ficción',
+		descripcion:
+			'Tras una pérdida devastadora, la familia de Jake y Neytiri se enfrenta a una tribu Navi hostil, los Ash, liderados por el implacable Varang, mientras los conflictos en Pandora se intensifican y surgen nuevos dilemas morales.',
+		id: 10,
+	},
+	{
+		imagen: 'https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002701?referenceScheme=HeadOffice&allowPlaceHolder=true',
+		titulo: 'El Grinch',
+		genero: 'Comedia, Familiar',
+		descripcion:
+			'En las afueras de Whoville, vive el Grinch y busca venganza para arruinar la Navidad de todos los ciudadanos de la ciudad.',
+		id: 11,
+	},
+	{
+		imagen: 'https://cdn.apis.cineplanet.com.pe/CDN/media/entity/get/FilmPosterGraphic/HO00002582?referenceScheme=HeadOffice&allowPlaceHolder=true',
+		titulo: 'Five Nights at Freddys 2',
+		genero: 'Terror, Ciencia ficción',
+		descripcion:
+			'Ha pasado un año desde la pesadilla sobrenatural en Freddy Fazbear’s Pizza. Las historias sobre lo que ocurrió allí se han vuelto una leyenda local, que han inspirado al primer Fazfest del pueblo. El ex guardia de seguridad Mike y la oficial de policía Vanessa han mantenido en secreto la verdad sobre el destino de sus amigos animatrónicos a Abby, la hermana de 11 años de Mike.',
+		id: 12,
+	},
 ];
