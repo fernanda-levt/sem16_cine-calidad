@@ -1,4 +1,3 @@
-/* No se menciona quiénes son las personas, solo muestra info general */
 const MovieCard = ({ movie }) => {
   return (
     <div className="movie-card">
